@@ -1,3 +1,10 @@
+---
+title: Licence
+permalink: /gdpr/
+layout: page
+---
+
+
 GDPR Compliance Statement
 
 This website is hosted using [GitHub Pages](https://pages.github.com/), a service provided by GitHub, Inc.
