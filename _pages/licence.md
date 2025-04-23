@@ -1,3 +1,10 @@
+---
+title: Licence
+permalink: /licence/
+layout: page
+---
+
+
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
