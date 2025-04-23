@@ -1,7 +1,7 @@
 ---
 title: Licence
 permalink: /gdpr/
-layout: page
+layout: default
 ---
 
 
