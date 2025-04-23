@@ -1,7 +1,7 @@
 ---
 title: Licence
 permalink: /licence/
-layout: page
+layout: default
 ---
 
 
